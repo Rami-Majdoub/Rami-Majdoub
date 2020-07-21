@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm currently looking for a summer internship.
+
+#### About Me
+A software engineer student enthusiast about mobile development.
+
+#### Contact Info
+[![mail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:rami.majdoub1@gmail.com)
+[![linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rami-majdoub)
+[![google-play](https://img.icons8.com/color/48/000000/google-play.png)](https://play.google.com/store/apps/dev?id=5062021615357372146)
 
 <!--
 **Rami-Majdoub/Rami-Majdoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
