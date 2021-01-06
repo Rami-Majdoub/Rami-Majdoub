@@ -1,9 +1,4 @@
 ### Hi there 👋
-I'm currently looking for a summer internship.
-
-#### About Me
-A software engineer student enthusiast about mobile development.
-
 #### Contact Info
 [![mail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:rami.majdoub1@gmail.com)
 [![linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rami-majdoub)
